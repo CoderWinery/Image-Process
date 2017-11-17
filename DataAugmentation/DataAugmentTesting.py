@@ -14,7 +14,7 @@ from matplotlib import pyplot as plt
 
 # set data augmentation method 
 # if methos = 1 =========> use
-
+# lasting updating
 DataAugmentMethod = {
 	'_img_zoom' : 1,
 	'_avg_blur' : 0,
